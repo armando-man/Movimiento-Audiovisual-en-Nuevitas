@@ -1,38 +1,38 @@
-objectid,title,creator,subject,date,format,filename,youtubeid
-man_01,El oledor de pólvora.,Dayron Porrua,Ficción,2007,video/mp4,https://www.youtube.com/watch?v=TOi5htoth4s,TOi5htoth4s
-man_02,El oledor de pólvora.,,Ficha Técnica,,application/pdf,ft_oledor.pdf,
-man_03,Un día cualquiera,Pedro Martín Navarro,Cortometraje,2008,video/mp4,https://www.youtube.com/watch?v=iyVxtb2zUew,iyVxtb2zUew
-man_04,Un día cualquiera,,Ficha Técnica,,application/pdf,ft_día.pdf,
-man_05,Costas extrañas,Dayron Porrua y Eyder Armas,Documental,2009,video/mp4,https://www.youtube.com/watch?v=zjRrR4ZBFFQ,zjRrR4ZBFFQ
-man_06,Costas extrañas,,Ficha Técnica,,application/pdf,ft_costas.pdf,
-man_07,Costas extrañas,,Poster,,image/jpeg,p_costas.jpg,
-man_08,Los anocheceres son apacibles aquí,Dayron Porrua y Eyder Armas,Documental,2010,video/mp4,https://www.youtube.com/watch?v=8aYvbDbEzW8,8aYvbDbEzW8
-man_09,Los anocheceres son apacibles aquí,,Ficha Técnica,,application/pdf,ft_anocheceres.pdf,
-man_10,Zona de conflicto (Zombi),Leonardo Gómez,Ficción,2011,video/mp4,https://www.youtube.com/watch?v=lHLGAj8bBrg,lHLGAj8bBrg
-man_11,Zona de conflicto (Zombi),,Ficha Técnica,,application/pdf,ft_zc_zombi.pdf,
-man_12,Insomnio,Pedro Navarro y Eyder Armas,Ficción,2011,video/mp4,https://www.youtube.com/watch?v=CwHocEA9R_8,CwHocEA9R_8
-man_13,Insomnio,,Ficha Técnica,,application/pdf,ft_insomnio.pdf,
-man_14,Insomnio,,Poster,,image/jpeg,p_insomnio.jpg,
-man_15,Plegaria,Eyder Armas,Documental,2012,video/mp4,https://www.youtube.com/watch?v=wEFrL963-Ew,wEFrL963-Ew
-man_16,Plegaria,,Ficha Técnica,,application/pdf,ft_plegaria.pdf,
-man_17,Plegaria,,Poster,,image/jpeg,p_plegaria.jpg,
-man_18,El regreso,Geordanys Santana Avilés,Ficción,2014,video/mp4,https://www.youtube.com/watch?v=o6ecqpyXY7Y,o6ecqpyXY7Y
-man_19,El regreso,,Ficha Técnica,,application/pdf,ft_regreso.pdf,
-man_20,El regreso,,Poster,,image/jpeg,p_regreso.jpg,
-man_21,El regreso,,Poster,,image/jpeg,p_regreso1.jpg,
-man_22,Rey De Bronce,Geordanys Santana Avilés y Hugo Navarro,Ficción,2014,video/mp4,https://www.youtube.com/watch?v=prY1CUuZ0CQ,prY1CUuZ0CQ
-man_23,Rey De Bronce,,Ficha Técnica,,application/pdf,ft_rey.pdf,
-man_24,Rey De Bronce,,Poster,,image/jpeg,p_rey.jpg,
-man_25,Hierosocpia V,,Promocional,,video/mp4,pro_H5,
-man_26,"Hieroscopia, un vento de jóvenes en la imagen",Yahily Hernández Porto,Artículo ,,record,https://www.juventudrebelde.cu/cuba/2015-07-14/hieroscopia-un-evento-de-jovenes-en-la-imagen,
-man_27,Out 27,Geordanys Santana Avilés y Hugo Navarro,Ficción,2016,video/mp4,https://www.youtube.com/watch?v=6OuoNCHxKts,6OuoNCHxKts
-man_28,Out 27,,Ficha Técnica,,application/pdf,ft_out.pdf,
-man_29,Out 27,,Poster,,image/jpeg,p_out.jpg,
-man_30,La Flor De Dani,Geordanys Santana Avilés y Hugo Navarro,Ficción,2016,video/mp4,https://www.youtube.com/watch?v=jEjTJUMhTog,jEjTJUMhTog
-man_31,La Flor De Dani,,Ficha Técnica,,application/pdf,ft_dani.pdf,
-man_32,Hermanos,Inés Rita Marín Izaguirre y Hugo Navarro,Documental,,video/mp4,https://www.youtube.com/watch?v=vuyebZPEJLQ,vuyebZPEJLQ
-man_33,Hermanos,,Ficha Técnica,,application/pdf,ft_hermanos.pdf,
-man_34,Nuevitas,Saraí Díaz Martín y Hugo Navarro,Documental,2016,video/mp4,https://www.youtube.com/watch?v=ce3hyEhJrPw,ce3hyEhJrPw
-man_35,Nuevitas,,Ficha Técnica,,application/pdf,ft_nuevitas.pdf,
-man_36,The Champions,Leonardo Gómez,Video musical,2016,video/mp4,https://www.youtube.com/watch?v=Y2LEVVtbz8Y,Y2LEVVtbz8Y
-man_37,The Champions,,Ficha Técnica,,application/pdf,ft_champion.pdf,
+objectid,title,creator,subject,date,format,filename,youtubeid,genre,time,format,color,director,original idea,producer,collaborators,cinematography,script,camera,sound,editor,special effects,art director,music,make-up,actors,production,synopsis,notes
+man_01,El oledor de pólvora.,Dayron Porrua,Ficción,2007,video/mp4,https://www.youtube.com/watch?v=TOi5htoth4s,TOi5htoth4s,ficción-experimental,7'11,"NTSC 16:9 29,97 fsp",color,Dayron Porrua,,Pedro Martín Navarro,,Dayron Porrua y Eyder Armas Almaguer,Dayron Porrua y Eyder Armas Almaguer,Dayron Porrua y Eyder Armas Almaguer,,Dayron Porrua y Eyder Armas Almaguer,,,,,"Geordanys Santana, Leonardo Gómez, Liber Reyna, Yadier Cañizares, Yurixander Perera, Eyder Armas Almaguer, Pedro Navarro y Dayron Porrúa.",Proyecto El Cuchillo de Macbeth Video/Performance/Instalación,Un joven tiene visiones como consecuencia de su afición al cine bélico y de acción. Su estado traumático se agudiza con el llamado del Servicio Militar. ,Se trata del primer material audiovisual filmado en Nuevitas por realizadores aficionados de la localidad que posteriormente integran el Movimiento Audiovisual en Nuevitas y crean la muestra de carácter anual Hieroscopia con sede en el municipio. Se considera como la génesis de dicho movimiento.
+man_02,El oledor de pólvora.,,Ficha Técnica,,application/pdf,ft_oledor.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_03,Un día cualquiera,Pedro Martín Navarro,Cortometraje,2008,video/mp4,https://www.youtube.com/watch?v=iyVxtb2zUew,iyVxtb2zUew,,,,,,,,,,,,,,,,,,,,,
+man_04,Un día cualquiera,,Ficha Técnica,,application/pdf,ft_día.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_05,Costas extrañas,Dayron Porrua y Eyder Armas,Documental,2009,video/mp4,https://www.youtube.com/watch?v=zjRrR4ZBFFQ,zjRrR4ZBFFQ,,,,,,,,,,,,,,,,,,,,,
+man_06,Costas extrañas,,Ficha Técnica,,application/pdf,ft_costas.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_07,Costas extrañas,,Poster,,image/jpeg,p_costas.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_08,Los anocheceres son apacibles aquí,Dayron Porrua y Eyder Armas,Documental,2010,video/mp4,https://www.youtube.com/watch?v=8aYvbDbEzW8,8aYvbDbEzW8,,,,,,,,,,,,,,,,,,,,,
+man_09,Los anocheceres son apacibles aquí,,Ficha Técnica,,application/pdf,ft_anocheceres.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_10,Zona de conflicto (Zombi),Leonardo Gómez,Ficción,2011,video/mp4,https://www.youtube.com/watch?v=lHLGAj8bBrg,lHLGAj8bBrg,,,,,,,,,,,,,,,,,,,,,
+man_11,Zona de conflicto (Zombi),,Ficha Técnica,,application/pdf,ft_zc_zombi.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_12,Insomnio,Pedro Navarro y Eyder Armas,Ficción,2011,video/mp4,https://www.youtube.com/watch?v=CwHocEA9R_8,CwHocEA9R_8,,,,,,,,,,,,,,,,,,,,,
+man_13,Insomnio,,Ficha Técnica,,application/pdf,ft_insomnio.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_14,Insomnio,,Poster,,image/jpeg,p_insomnio.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_15,Plegaria,Eyder Armas,Documental,2012,video/mp4,https://www.youtube.com/watch?v=wEFrL963-Ew,wEFrL963-Ew,,,,,,,,,,,,,,,,,,,,,
+man_16,Plegaria,,Ficha Técnica,,application/pdf,ft_plegaria.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_17,Plegaria,,Poster,,image/jpeg,p_plegaria.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_18,El regreso,Geordanys Santana Avilés,Ficción,2014,video/mp4,https://www.youtube.com/watch?v=o6ecqpyXY7Y,o6ecqpyXY7Y,,,,,,,,,,,,,,,,,,,,,
+man_19,El regreso,,Ficha Técnica,,application/pdf,ft_regreso.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_20,El regreso,,Poster,,image/jpeg,p_regreso.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_21,El regreso,,Poster,,image/jpeg,p_regreso1.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_22,Rey De Bronce,Geordanys Santana Avilés y Hugo Navarro,Ficción,2014,video/mp4,https://www.youtube.com/watch?v=prY1CUuZ0CQ,prY1CUuZ0CQ,,,,,,,,,,,,,,,,,,,,,
+man_23,Rey De Bronce,,Ficha Técnica,,application/pdf,ft_rey.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_24,Rey De Bronce,,Poster,,image/jpeg,p_rey.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_25,Hierosocpia V,,Promocional,,video/mp4,pro_H5,,,,,,,,,,,,,,,,,,,,,,
+man_26,"Hieroscopia, un vento de jóvenes en la imagen",Yahily Hernández Porto,Artículo ,,record,https://www.juventudrebelde.cu/cuba/2015-07-14/hieroscopia-un-evento-de-jovenes-en-la-imagen,,,,,,,,,,,,,,,,,,,,,,
+man_27,Out 27,Geordanys Santana Avilés y Hugo Navarro,Ficción,2016,video/mp4,https://www.youtube.com/watch?v=6OuoNCHxKts,6OuoNCHxKts,,,,,,,,,,,,,,,,,,,,,
+man_28,Out 27,,Ficha Técnica,,application/pdf,ft_out.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_29,Out 27,,Poster,,image/jpeg,p_out.jpg,,,,,,,,,,,,,,,,,,,,,,
+man_30,La Flor De Dani,Geordanys Santana Avilés y Hugo Navarro,Ficción,2016,video/mp4,https://www.youtube.com/watch?v=jEjTJUMhTog,jEjTJUMhTog,,,,,,,,,,,,,,,,,,,,,
+man_31,La Flor De Dani,,Ficha Técnica,,application/pdf,ft_dani.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_32,Hermanos,Inés Rita Marín Izaguirre y Hugo Navarro,Documental,,video/mp4,https://www.youtube.com/watch?v=vuyebZPEJLQ,vuyebZPEJLQ,,,,,,,,,,,,,,,,,,,,,
+man_33,Hermanos,,Ficha Técnica,,application/pdf,ft_hermanos.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_34,Nuevitas,Saraí Díaz Martín y Hugo Navarro,Documental,2016,video/mp4,https://www.youtube.com/watch?v=ce3hyEhJrPw,ce3hyEhJrPw,,,,,,,,,,,,,,,,,,,,,
+man_35,Nuevitas,,Ficha Técnica,,application/pdf,ft_nuevitas.pdf,,,,,,,,,,,,,,,,,,,,,,
+man_36,The Champions,Leonardo Gómez,Video musical,2016,video/mp4,https://www.youtube.com/watch?v=Y2LEVVtbz8Y,Y2LEVVtbz8Y,,,,,,,,,,,,,,,,,,,,,
+man_37,The Champions,,Ficha Técnica,,application/pdf,ft_champion.pdf,,,,,,,,,,,,,,,,,,,,,,
